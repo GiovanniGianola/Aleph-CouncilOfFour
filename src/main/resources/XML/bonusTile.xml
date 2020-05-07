@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Bonus Tile -->
+
+<BonusTile>
+
+	<!-- Bonus Tile Region -->
+	<BonusTileRegion>
+		<BonusRegion RegionName = "COAST">
+			<Type>victorypointbonus</Type>
+			<Quantity>5</Quantity>
+		</BonusRegion>
+		<BonusRegion RegionName = "HILL">
+			<Type>victorypointbonus</Type>
+			<Quantity>5</Quantity>
+		</BonusRegion>
+		<BonusRegion RegionName = "MOUNTAIN">
+			<Type>victorypointbonus</Type>
+			<Quantity>5</Quantity>
+		</BonusRegion>
+	</BonusTileRegion>
+	
+	<!-- Bonus Tile CityType -->
+	<BonusTileCityType>
+		<BonusCityType CityType = "Gold">
+			<Type>victorypointbonus</Type>
+			<Quantity>20</Quantity>
+		</BonusCityType>
+		<BonusCityType CityType = "Iron">
+			<Type>victorypointbonus</Type>
+			<Quantity>12</Quantity>
+		</BonusCityType>
+		<BonusCityType CityType = "Bronze">
+			<Type>victorypointbonus</Type>
+			<Quantity>8</Quantity>
+		</BonusCityType>
+		<BonusCityType CityType = "Blue">
+			<Type>victorypointbonus</Type>
+			<Quantity>5</Quantity>
+		</BonusCityType>
+	</BonusTileCityType>
+		
+	<!-- Bonus Tile King Board -->
+	<BonusTileKing>
+		<BonusKing>
+			<Type>victorypointbonus</Type>
+			<Quantity>25</Quantity>
+		</BonusKing>
+		<BonusKing>
+			<Type>victorypointbonus</Type>
+			<Quantity>18</Quantity>
+		</BonusKing>
+		<BonusKing>
+			<Type>victorypointbonus</Type>
+			<Quantity>12</Quantity>
+		</BonusKing>
+		<BonusKing>
+			<Type>victorypointbonus</Type>
+			<Quantity>7</Quantity>
+		</BonusKing>
+		<BonusKing>
+			<Type>victorypointbonus</Type>
+			<Quantity>3</Quantity>
+		</BonusKing>
+	</BonusTileKing>
+	
+</BonusTile>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Map Combination: 
+		coast b
+		hill a
+		mountain b -->
+		
+<GameBoard>
+
+	<!-- Set City Type -->
+	<CityType>
+		<TypeC>Blue</TypeC>
+	</CityType>
+	<CityType>
+		<TypeC>Iron</TypeC>
+	</CityType>
+	<CityType>
+		<TypeC>Bronze</TypeC>
+	</CityType>
+	<CityType>
+		<TypeC>Gold</TypeC>
+	</CityType>
+	<CityType>
+		<TypeC>Purple</TypeC>
+	</CityType>
+
+	<!-- Cities -->
+	<Region RegionName = "COAST">
+		<City RegionName = "COAST">
+			<Name>Arkon</Name>
+			<Type>Gold</Type>
+			<Bonus>true</Bonus>
+			<Near>Castrum</Near>
+		</City>
+		<City RegionName = "COAST">
+			<Name>Burgen</Name>
+			<Type>Bronze</Type>
+			<Bonus>true</Bonus>
+			<Near>Esti</Near>
+		</City>
+		<City RegionName = "COAST">
+			<Name>Castrum</Name>
+			<Type>Iron</Type>
+			<Bonus>true</Bonus>
+			<Near>Arkon,Dorful,Framek</Near>
+		</City>
+		<City RegionName = "COAST">
+			<Name>Dorful</Name>
+			<Type>Blue</Type>
+			<Bonus>true</Bonus>
+			<Near>Castrum,Graden</Near>
+		</City>
+		<City RegionName = "COAST">
+			<Name>Esti</Name>
+			<Type>Iron</Type>
+			<Bonus>true</Bonus>
+			<Near>Burgen,Hellar</Near>
+		</City>
+	</Region>
+	
+	<Region RegionName = "HILL">
+		<City RegionName = "HILL">
+			<Name>Framek</Name>
+			<Type>Gold</Type>
+			<Bonus>true</Bonus>
+			<Near>Castrum,Graden,Indur</Near>
+		</City>
+		<City RegionName = "HILL">
+			<Name>Graden</Name>
+			<Type>Purple</Type>
+			<Bonus>false</Bonus>
+			<Near>Dorful,Framek,Hellar,Indur</Near>
+		</City>
+		<City RegionName = "HILL">
+			<Name>Hellar</Name>
+			<Type>Gold</Type>
+			<Bonus>true</Bonus>
+			<Near>Esti,Graden,Juvelar</Near>
+		</City>
+		<City RegionName = "HILL">
+			<Name>Indur</Name>
+			<Type>Bronze</Type>
+			<Bonus>true</Bonus>
+			<Near>Framek,Graden,Kultos</Near>
+		</City>
+		<City RegionName = "HILL">
+			<Name>Juvelar</Name>
+			<Type>Iron</Type>
+			<Bonus>true</Bonus>
+			<Near>Hellar,Lyram,Merkatim</Near>
+		</City>
+	</Region>
+	
+	<Region RegionName = "MOUNTAIN">
+		<City RegionName = "MOUNTAIN">
+			<Name>Kultos</Name>
+			<Type>Gold</Type>
+			<Bonus>true</Bonus>
+			<Near>Indur,Lyram</Near>
+		</City>
+		<City RegionName = "MOUNTAIN">
+			<Name>Lyram</Name>
+			<Type>Blue</Type>
+			<Bonus>true</Bonus>
+			<Near>Juvelar,Naris</Near>
+		</City>
+		<City RegionName = "MOUNTAIN">
+			<Name>Merkatim</Name>
+			<Type>Iron</Type>
+			<Bonus>true</Bonus>
+			<Near>Juvelar,Osium</Near>
+		</City>
+		<City RegionName = "MOUNTAIN">
+			<Name>Naris</Name>
+			<Type>Bronze</Type>
+			<Bonus>true</Bonus>
+			<Near>Lyram</Near>
+		</City>
+		<City RegionName = "MOUNTAIN">
+			<Name>Osium</Name>
+			<Type>Gold</Type>
+			<Bonus>true</Bonus>
+			<Near>Merkatim</Near>
+		</City>
+	</Region>
+	
+</GameBoard>
+			

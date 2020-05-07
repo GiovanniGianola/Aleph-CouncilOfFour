@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Nobility Track -->
+
+<NobilityTrack>
+
+		<!-- Cell 0 -->
+		<Cell BonusBool = "false">
+			<Bonus></Bonus>
+		</Cell>
+		
+		<!-- Cell 1 -->
+		<Cell BonusBool = "false">
+			<Bonus></Bonus>
+		</Cell>
+		
+		<!-- Cell 2 -->
+		<Cell BonusBool = "true">
+			<Bonus>
+				<Type>victorypointbonus,coinbonus</Type>
+				<Quantity>2,2</Quantity>
+			</Bonus>
+		</Cell>
+		
+		<!-- Cell 3 -->
+		<Cell BonusBool = "false">
+			<Bonus></Bonus>
+		</Cell>
+		
+		<!-- Cell 4 -->
+		<Cell BonusBool = "true">
+			<Bonus>
+				<Type>cityrewardbonus</Type>
+				<Quantity>1</Quantity>
+			</Bonus>
+		</Cell>
+		
+		<!-- Cell 5 -->
+		<Cell BonusBool = "false">
+			<Bonus></Bonus>
+		</Cell>
+		
+		<!-- Cell 6 -->
+		<Cell BonusBool = "true">
+			<Bonus>
+				<Type>mainactionbonus</Type>
+				<Quantity>1</Quantity>
+			</Bonus>
+		</Cell>
+		
+		<!-- Cell 7 -->
+		<Cell BonusBool = "false">
+			<Bonus></Bonus>
+		</Cell>
+		
+		<!-- Cell 8 -->
+		<Cell BonusBool = "true">
+			<Bonus>
+				<Type>victorypointbonus,drawpoliticcardbonus</Type>
+				<Quantity>3,1</Quantity>
+			</Bonus>
+		</Cell>
+		
+		<!-- Cell 9 -->
+		<Cell BonusBool = "false">
+			<Bonus></Bonus>
+		</Cell>
+		
+		<!-- Cell 10 -->
+		<Cell BonusBool = "true">
+			<Bonus>
+				<Type>drawbusinesspermitcardbonus</Type>
+				<Quantity>1</Quantity>
+			</Bonus>
+		</Cell>
+		
+		<!-- Cell 11 -->
+		<Cell BonusBool = "false">
+			<Bonus></Bonus>
+		</Cell>
+		
+		<!-- Cell 12 -->
+		<Cell BonusBool = "true">
+			<Bonus>
+				<Type>victorypointbonus,assistantbonus</Type>
+				<Quantity>5,1</Quantity>
+			</Bonus>
+		</Cell>
+		
+		<!-- Cell 13 -->
+		<Cell BonusBool = "false">
+			<Bonus></Bonus>
+		</Cell>
+		
+		<!-- Cell 14 -->
+		<Cell BonusBool = "true">
+			<Bonus>
+				<Type>businesspermitcardrewardbonus</Type>
+				<Quantity>1</Quantity>
+			</Bonus>
+		</Cell>
+		
+		<!-- Cell 15 -->
+		<Cell BonusBool = "false">
+			<Bonus></Bonus>
+		</Cell>
+		
+		<!-- Cell 16 -->
+		<Cell BonusBool = "true">
+			<Bonus>
+				<Type>cityrewardbonus</Type>
+				<Quantity>2</Quantity>
+			</Bonus>
+		</Cell>
+		
+		<!-- Cell 17 -->
+		<Cell BonusBool = "false">
+			<Bonus></Bonus>
+		</Cell>
+		
+		<!-- Cell 18 -->
+		<Cell BonusBool = "true">
+			<Bonus>
+				<Type>victorypointbonus</Type>
+				<Quantity>8</Quantity>
+			</Bonus>
+		</Cell>
+		
+		<!-- Cell 19 -->
+		<Cell BonusBool = "true">
+			<Bonus>
+				<Type>victorypointbonus</Type>
+				<Quantity>2</Quantity>
+			</Bonus>
+		</Cell>
+		
+		<!-- Cell 20 -->
+		<Cell BonusBool = "true">
+			<Bonus>
+				<Type>victorypointbonus</Type>
+				<Quantity>3</Quantity>
+			</Bonus>
+		</Cell>
+
+</NobilityTrack>

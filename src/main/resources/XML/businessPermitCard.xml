@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Business Permit Cards -->
+
+<DeckBusinessPermitCards>
+
+	<!-- COAST Deck Letters: A,B,C,D,E -->
+	<Region RegionName = "COAST">
+	
+		<!-- COAST Card 1 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>A</Letter>
+			<Bonus>
+				<Type>victorypointbonus,coinbonus</Type>
+				<Quantity>4,3</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 2 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>B</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,assistantbonus</Type>
+				<Quantity>3,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 3 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>C</Letter>
+			<Bonus>
+				<Type>assistantbonus,coinbonus</Type>
+				<Quantity>2,3</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 4 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>D</Letter>
+			<Bonus>
+				<Type>victorypointbonus</Type>
+				<Quantity>7</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 5 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>E</Letter>
+			<Bonus>
+				<Type>mainactionbonus,coinbonus</Type>
+				<Quantity>1,2</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 6 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>A,B</Letter>
+			<Bonus>
+				<Type>coinbonus,drawpoliticcardbonus</Type>
+				<Quantity>3,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 7 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>B,C</Letter>
+			<Bonus>
+				<Type>victorypointbonus,coinbonus</Type>
+				<Quantity>3,3</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 8 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>C,D</Letter>
+			<Bonus>
+				<Type>victorypointbonus,assistantbonus</Type>
+				<Quantity>3,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 9 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>D,E</Letter>
+			<Bonus>
+				<Type>victorypointbonus,assistantbonus</Type>
+				<Quantity>3,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 10 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>A,E</Letter>
+			<Bonus>
+				<Type>movemarkernobilitytrackbonus,movemarkernobilitytrackbonus</Type>
+				<Quantity>1,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 11 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>A,B,C</Letter>
+			<Bonus>
+				<Type>assistantbonus</Type>
+				<Quantity>2</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 12 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>A,B,E</Letter>
+			<Bonus>
+				<Type>coinbonus</Type>
+				<Quantity>3</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 13 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>A,D,E</Letter>
+			<Bonus>
+				<Type>coinbonus,victorypointbonus</Type>
+				<Quantity>1,2</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 14 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>B,C,D</Letter>
+			<Bonus>
+				<Type>assistantbonus,victorypointbonus</Type>
+				<Quantity>1,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- COAST Card 15 -->
+		<BusinessPermitCard RegionName = "COAST">
+			<Letter>C,D,E</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,movemarkernobilitytrackbonus</Type>
+				<Quantity>2,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+	</Region>
+	
+	<!-- HILL Deck Letters: F,G,H,I,J -->
+	<Region RegionName = "HILL">
+	
+		<!-- HILL Card 1 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>F</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,coinbonus</Type>
+				<Quantity>1,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 2 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>G</Letter>
+			<Bonus>
+				<Type>assistantbonus,victorypointbonus,movemarkernobilitytrackbonus</Type>
+				<Quantity>2,2,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 3 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>H</Letter>
+			<Bonus>
+				<Type>assistantbonus</Type>
+				<Quantity>4</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 4 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>I</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,assistantbonus</Type>
+				<Quantity>2,2</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 5 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>J</Letter>
+			<Bonus>
+				<Type>mainactionbonus,victorypointbonus</Type>
+				<Quantity>1,2</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 6 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>F,G</Letter>
+			<Bonus>
+				<Type>coinbonus</Type>
+				<Quantity>5</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 7 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>F,J</Letter>
+			<Bonus>
+				<Type>assistantbonus,coinbonus</Type>
+				<Quantity>2,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 8 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>H,G</Letter>
+			<Bonus>
+				<Type>assistantbonus,</Type>
+				<Quantity>3</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 9 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>H,I</Letter>
+			<Bonus>
+				<Type>victorypointbonus</Type>
+				<Quantity>5</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 10 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>I,J</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,movemarkernobilitytrackbonus</Type>
+				<Quantity>2,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 11 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>F,G,H</Letter>
+			<Bonus>
+				<Type>movemarkernobilitytrackbonus,coinbonus</Type>
+				<Quantity>1,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 12 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>F,G,J</Letter>
+			<Bonus>
+				<Type>coinbonus,victorypointbonus</Type>
+				<Quantity>2,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 13 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>F,I,J</Letter>
+			<Bonus>
+				<Type>assistantbonus,movemarkernobilitytrackbonus</Type>
+				<Quantity>1,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 14 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>G,H,I</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,movemarkernobilitytrackbonus</Type>
+				<Quantity>1,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- HILL Card 15 -->
+		<BusinessPermitCard RegionName = "HILL">
+			<Letter>I,J,H</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,assistantbonus</Type>
+				<Quantity>1,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+	
+	</Region>
+	
+	<!-- MOUNTAIN Deck Letters: K,L,M,N,O -->
+	<Region RegionName = "MOUNTAIN">
+	
+		<!-- MOUNTAIN Card 1 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>K</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus</Type>
+				<Quantity>4</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 2 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>L</Letter>
+			<Bonus>
+				<Type>coinbonus,assistantbonus</Type>
+				<Quantity>1,3</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 3 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>M</Letter>
+			<Bonus>
+				<Type>victorypointbonus,movemarkernobilitytrackbonus</Type>
+				<Quantity>5,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 4 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>N</Letter>
+			<Bonus>
+				<Type>coinbonus</Type>
+				<Quantity>7</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 5 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>O</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,movemarkernobilitytrackbonus</Type>
+				<Quantity>3,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 6 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>K,L</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,assistantbonus</Type>
+				<Quantity>1,2</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 7 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>M,L</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus</Type>
+				<Quantity>3</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 8 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>M,N</Letter>
+			<Bonus>
+				<Type>mainactionbonus</Type>
+				<Quantity>1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 9 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>N,O</Letter>
+			<Bonus>
+				<Type>victorypointbonus,drawpoliticcardbonus</Type>
+				<Quantity>2,2</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 10 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>O,K</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,movemarkernobilitytrackbonus</Type>
+				<Quantity>2,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 11 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>L,M,N</Letter>
+			<Bonus>
+				<Type>victorypointbonus</Type>
+				<Quantity>3</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 12 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>K,L,O</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,coinbonus</Type>
+				<Quantity>1,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 13 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>K,N,O</Letter>
+			<Bonus>
+				<Type>drawpoliticcardbonus,victorypointbonus</Type>
+				<Quantity>1,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 14 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>M,N,O</Letter>
+			<Bonus>
+				<Type>movemarkernobilitytrackbonus,victorypointbonus</Type>
+				<Quantity>1,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>
+		
+		<!-- MOUNTAIN Card 15 -->
+		<BusinessPermitCard RegionName = "MOUNTAIN">
+			<Letter>K,L,M</Letter>
+			<Bonus>
+				<Type>assistantbonus,coinbonus</Type>
+				<Quantity>1,1</Quantity>
+			</Bonus>
+		</BusinessPermitCard>	
+	</Region>
+	
+</DeckBusinessPermitCards>

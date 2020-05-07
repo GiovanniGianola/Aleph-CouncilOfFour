@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Cities Bonus -->
+
+<CityBonus>
+
+		<!-- Bonus 1 -->
+	<Bonus>
+		<Type>victorypointbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+	
+		<!-- Bonus 2 -->
+	<Bonus>
+		<Type>victorypointbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+	
+		<!-- Bonus 3 -->
+	<Bonus>
+		<Type>victorypointbonus</Type>
+		<Quantity>2</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 4 -->
+	<Bonus>
+		<Type>victorypointbonus</Type>
+		<Quantity>3</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 5 -->
+	<Bonus>
+		<Type>assistantbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 6 -->
+	<Bonus>
+		<Type>assistantbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 7 -->
+	<Bonus>
+		<Type>assistantbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 8 -->
+	<Bonus>
+		<Type>assistantbonus</Type>
+		<Quantity>2</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 9 -->
+	<Bonus>
+		<Type>coinbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 10 -->
+	<Bonus>
+		<Type>coinbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+	
+		<!-- Bonus 11 -->
+	<Bonus>
+		<Type>coinbonus</Type>
+		<Quantity>2</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 12 -->
+	<Bonus>
+		<Type>coinbonus</Type>
+		<Quantity>3</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 13 -->
+	<Bonus>
+		<Type>drawpoliticcardbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 14 -->
+	<Bonus>
+		<Type>drawpoliticcardbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 15 -->
+	<Bonus>
+		<Type>drawpoliticcardbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 16 -->
+	<Bonus>
+		<Type>movemarkernobilitytrackbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+		
+		<!-- Bonus 17 -->
+	<Bonus>
+		<Type>movemarkernobilitytrackbonus</Type>
+		<Quantity>1</Quantity>
+	</Bonus>
+	
+</CityBonus>
